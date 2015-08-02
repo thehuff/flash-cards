@@ -1,0 +1,496 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "app/controllers/study_session_answer_controller.rb",
+			"settings":
+			{
+				"buffer_size": 246,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/controllers/application_controller.rb",
+			"settings":
+			{
+				"buffer_size": 204,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/controllers/study_session_controller.rb",
+			"settings":
+			{
+				"buffer_size": 197,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/controllers/tag_controller.rb",
+			"settings":
+			{
+				"buffer_size": 180,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/controllers/user_controller.rb",
+			"settings":
+			{
+				"buffer_size": 181,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 127.0,
+		"last_filter": "install",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"pack",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Advanced Install Package"
+			],
+			[
+				"kacka",
+				"Package Control: List Packages"
+			],
+			[
+				"packlist",
+				"Package Control: Install Package"
+			],
+			[
+				"packagelist",
+				"Package Control: List Packages"
+			],
+			[
+				"packageupd",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"sort",
+				"Sort Lines"
+			],
+			[
+				"packageinstall",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 593.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/dave/Documents/code/projects/flashcards",
+		"/Users/dave/Documents/code/projects/flashcards/app",
+		"/Users/dave/Documents/code/projects/flashcards/app/controllers",
+		"/Users/dave/Documents/code/projects/flashcards/config"
+	],
+	"file_history":
+	[
+		"/Users/dave/Documents/code/projects/flashcards/app/controllers/card_side_controller.rb",
+		"/Users/dave/Documents/code/projects/flashcards/app/controllers/card_controller.rb",
+		"/Users/dave/Documents/code/projects/flashcards/config/routes.rb",
+		"/Users/dave/Documents/code/projects/flashcards/nerts.md",
+		"/Users/dave/Documents/code/projects/flashcards/config/database.yml",
+		"/Users/dave/Documents/code/projects/flashcards/Gemfile",
+		"/Users/dave/Documents/code/projects/flashcards/app/controllers/tag_controller.rb",
+		"/Users/dave/Documents/code/projects/flashcards/app/controllers/study_session_controller.rb",
+		"/Users/dave/Documents/code/projects/flashcards/app/controllers/study_session_answer_controller.rb",
+		"/Users/dave/Documents/code/projects/flashcards/app/controllers/user_controller.rb",
+		"/Users/dave/Documents/code/projects/flashcards/app/models/user_deck.rb",
+		"/Users/dave/Documents/code/projects/flashcards/db/migrate/20150628191917_create_cards.rb",
+		"/Users/dave/Documents/code/projects/flashcards/db/migrate/20150628192007_create_users.rb",
+		"/Users/dave/Documents/code/projects/flashcards/db/migrate/20150628191952_create_study_sessions.rb",
+		"/Users/dave/Documents/code/projects/flashcards/db/migrate/20150628192204_create_study_session_answers.rb",
+		"/Users/dave/Documents/code/projects/flashcards/db/migrate/20150628192347_create_tags.rb",
+		"/Users/dave/Documents/code/projects/flashcards/db/migrate/20150628192553_create_card_sides.rb",
+		"/Users/dave/Documents/code/projects/flashcards/app/models/user.rb",
+		"/Users/dave/Documents/code/projects/flashcards/app/models/study_session.rb",
+		"/Users/dave/Documents/code/projects/flashcards/app/models/card.rb",
+		"/Users/dave/Documents/code/projects/flashcards/app/models/card_side.rb",
+		"/Users/dave/Documents/code/projects/flashcards/app/models/study_session_answer.rb",
+		"/Users/dave/Documents/code/projects/flashcards/app/models/tag.rb",
+		"/Users/dave/Documents/code/projects/flashcards/db/schema.rb",
+		"/Users/dave/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/dave/Documents/code/projects/flashcards/db/migrate/20150628191938_create_decks.rb",
+		"/Users/dave/Documents/code/projects/flashcards/flashcards.sublime-project",
+		"/Users/dave/Documents/code/projects/flashcards/app/controllers/welcome_controller.rb",
+		"/Users/dave/Library/Application Support/Sublime Text 3/Packages/MarkdownEditing/README.md",
+		"/Users/dave/Desktop/rails_cookbook.md",
+		"/Users/dave/Desktop/ruby_cheat_sheet.md",
+		"/Users/dave/Desktop/ruby_cheat_sheet.rb",
+		"/Users/dave/Documents/code/scripts/podcast_rip/podcast_rip.rb",
+		"/Users/dave/Documents/code/scripts/podcast_rip.rb",
+		"/Users/dave/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"'",
+			"Welcome aboard",
+			"coffee",
+			"\\t",
+			"print_usa",
+			"attri",
+			"rss_doc",
+			"ARGV.first",
+			"tab",
+			"open",
+			"show",
+			"project",
+			"always",
+			"side bar"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"  "
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "app/controllers/study_session_answer_controller.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 246,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								154,
+								175
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "app/controllers/application_controller.rb",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 204,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								204,
+								204
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "app/controllers/study_session_controller.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 197,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								173,
+								193
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "app/controllers/tag_controller.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 180,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								156,
+								156
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "app/controllers/user_controller.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 181,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								156,
+								156
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "flashcards.sublime-project",
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"routes",
+				"config/routes.rb"
+			],
+			[
+				"gemfile",
+				"Gemfile"
+			],
+			[
+				"db",
+				"config/database.yml"
+			],
+			[
+				"ne",
+				"nerts.md"
+			],
+			[
+				"schema",
+				"db/schema.rb"
+			],
+			[
+				"card",
+				"app/models/card.rb"
+			],
+			[
+				"createdeck",
+				"db/migrate/20150628191938_create_decks.rb"
+			],
+			[
+				"welcomecont",
+				"app/controllers/welcome_controller.rb"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 147.0,
+		"last_filter": "cardside",
+		"selected_items":
+		[
+			[
+				"cardside",
+				"CardSide"
+			],
+			[
+				"tag",
+				"Tag"
+			],
+			[
+				"studysession",
+				"StudySessionAnswer"
+			],
+			[
+				"studysess",
+				"StudySession"
+			],
+			[
+				"user",
+				"User"
+			]
+		],
+		"width": 392.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 379.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
