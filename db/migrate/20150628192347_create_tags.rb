@@ -1,8 +1,6 @@
 class CreateTags < ActiveRecord::Migration
   def change
     create_table :tags do |t|
-
-    	# user_id
       t.belongs_to :user
 
       # TODO polymorphic taggable fk column
